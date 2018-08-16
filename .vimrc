@@ -3,7 +3,7 @@ set nocompatible
 
 "backgroundは明るいと教えてあげる
 " light or black
-set background=black
+set background=dark
 
 "配色の指定
 colorscheme desert
