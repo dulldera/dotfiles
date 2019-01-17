@@ -1,7 +1,7 @@
 "Use vim
 set nocompatible
 
-"backgroundは明るいと教えてあげる
+"backgroundを教えてあげる
 " light or black
 set background=dark
 
