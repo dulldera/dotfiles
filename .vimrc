@@ -1,4 +1,5 @@
 "Use vim
+"not vi
 set nocompatible
 
 "backgroundを教えてあげる
